@@ -34,8 +34,8 @@ A Java-based banking application that simulates basic banking operations like ac
 ### Prerequisites
 
 - Java 17 or higher
-- PostgreSQL or MySQL database
-- Maven (or Gradle) for building the project
+- MySQL database
+- Maven for building the project
 
 ### Installation
 
