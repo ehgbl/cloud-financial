@@ -1,4 +1,4 @@
-# Banking App
+# Cloud Banking Analytics
 
 A Java-based banking application that simulates basic banking operations like account management, user authentication, and transaction handling. The app supports **Checking** and **Savings** accounts, with features like CSV data import, interest rate calculations, and database integration for persistent storage.
 
