@@ -29,15 +29,7 @@ A Java-based banking application that simulates basic banking operations like ac
 - **PostgreSQL/MySQL**: Relational database to store account and transaction data.
 - **Apache Commons CSV / OpenCSV**: For handling CSV file imports.
 
-## Getting Started
 
-### Prerequisites
-
-- Java 17 or higher
-- MySQL database
-- Maven for building the project
-
-### Installation
 
 1. Clone the repository:
    ```bash
